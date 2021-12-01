@@ -1,5 +1,6 @@
 venv
 responses
+.idea
 client_secrets.json
 credentials.json
 test_form.json
